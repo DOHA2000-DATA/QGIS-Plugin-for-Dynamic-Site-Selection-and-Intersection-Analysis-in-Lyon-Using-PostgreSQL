@@ -3,10 +3,25 @@ Overview
 
 This QGIS plugin provides a powerful interface to dynamically select and analyze spatial sites within the city of Lyon, leveraging a PostgreSQL/PostGIS spatial database. Users can execute spatial SQL queries based on geometries selected directly in QGIS, with advanced filtering based on the percentage of intersection between selected areas and database features. This facilitates accurate spatial decision-making for urban planning, environmental analysis, and more.
 Features
+
+
+
+
+
+
 <img width="298" alt="12" src="https://github.com/user-attachments/assets/8f2e8bd7-7c99-44b5-bd2d-d7e90837b7d8" />
 
 
+
+
+
 ![image](https://github.com/user-attachments/assets/a51a9805-fc05-4851-b99a-bc40d544999f)
+
+
+
+
+
+
 
 
     Direct connection to PostgreSQL/PostGIS spatial database containing Lyon site data.
